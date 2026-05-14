@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Nisha+Naresh+%F0%9F%91%8B;MBAI+%40+Ontario+Tech+University;Data+Analytics+%7C+AI+%7C+Business+Intelligence;Gold+Medallist+%F0%9F%8F%85+%7C+Award-Winning+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Nisha+Naresh!" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-naresh/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nisha.naresh@ontariotechu.net)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nisha-naresh)
 [![Profile Views](https://komarev.com/ghpvc/?username=Nisha-naresh&style=for-the-badge&color=7C3AED)](https://github.com/Nisha-naresh)
 
 </div>
@@ -53,31 +52,10 @@ nisha = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-<div align="center">
-
-**Analytics & Data**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-**Platforms & Tools**
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-</div>
+**Data Analytics & BI**
+Python · SQL · Power BI · Excel (Advanced) · Data Visualization · Predictive Analytics · Statistical Modelling · UI Design
 
 ---
 
@@ -88,7 +66,7 @@ nisha = {
 > Push notifications, daily medication schedules, and an intuitive UI — improving patient adherence.
 > Recognised with **Best Paper Presentation at TECH STAR SUMMIT 2024**.
 
-`Java` `Swift` `Android` `iOS` `Mobile Development` · [→ View Repository](https://github.com/Nisha-naresh/Medication_Reminder)
+`Java` `Swift` `Android` `iOS` · [→ View Repository](https://github.com/Nisha-naresh/Medication_Reminder)
 
 ---
 
@@ -101,7 +79,7 @@ nisha = {
 ---
 
 **`03` — Artificial Intelligence Lab Work**
-> Hands-on AI and ML experiments and implementations covering core concepts in AI.
+> Hands-on AI and ML experiments covering core concepts.
 
 `Python` `AI` `Machine Learning` · [→ View Repository](https://github.com/Nisha-naresh/Artificial-Intelligence)
 
@@ -110,44 +88,15 @@ nisha = {
 **`04` — Data Structures & Algorithms**
 > Structured implementations of fundamental CS concepts — clean, documented, and reusable.
 
-`Python` `DSA` `Computer Science` · [→ View Repository](https://github.com/Nisha-naresh/Data-Structures)
+`Python` `DSA` · [→ View Repository](https://github.com/Nisha-naresh/Data-Structures)
 
 ---
 
 ## 📜 Certifications
 
-![DataCamp](https://img.shields.io/badge/DataCamp-Python_%26_Power_BI_·_2024-03EF62?style=flat-square&logo=datacamp&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-Excel,_Java,_AI,_IoT,_Cisco_·_2024-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![PTE](https://img.shields.io/badge/PTE_Academic-Score_75-7C3AED?style=flat-square)
+All my certifications are listed on my LinkedIn profile — feel free to view them there:
 
----
-
-## 🎓 Education
-
-| | Degree | Institution | Year |
-|---|--------|-------------|------|
-| 🎓 | Master of Business Analytics & AI | Ontario Tech University | Jan 2026 – Present |
-| 🥇 | B.Eng. Computer Science *(Gold Medal, Top of Class)* | Saveetha School of Engineering | 2021 – 2024 |
-| 📘 | Diploma in Computer Science Engineering | Nettur Technical Training Foundation | 2018 – 2020 |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nisha-naresh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisha-naresh&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nisha-naresh&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nisha-naresh&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
+👉 [View Certifications on LinkedIn](https://www.linkedin.com/in/nisha-naresh/details/certifications/)
 
 ---
 
