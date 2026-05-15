@@ -10,97 +10,99 @@
 
 </div>
 
----
+<br/>
 
 ## 👩‍💻 About Me
 
-Hi! I'm Nisha — a graduate student in **Business Analytics & AI** at Ontario Tech University, based in Whitby, Ontario 🇨🇦
+Hi! I'm Nisha, a graduate student in Business Analytics and AI at Ontario Tech University, based in Whitby, Ontario 🇨🇦
 
-I come from a Computer Science background, graduated as **Gold Medallist at the top of my class**, and had my research recognised with a **Best Paper Presentation award at TECH STAR SUMMIT 2024**. I care deeply about turning messy data into decisions that actually make sense — and building things that are useful in the real world.
+I come from a Computer Science background where I graduated as Gold Medallist at the top of my class and had my research recognised with a Best Paper Presentation award at TECH STAR SUMMIT 2024. I genuinely enjoy turning messy data into decisions that actually make sense and building things that are useful in the real world.
 
-When I'm not coding or crunching data, I'm exploring how AI can be applied responsibly and ethically in business contexts.
+When I am not coding or crunching data, I am exploring how AI can be applied responsibly and ethically in business contexts.
 
 ```python
 nisha = {
     "location"   : "Whitby, Ontario 🇨🇦",
-    "education"  : "Master of Business Analytics & AI — Ontario Tech University",
-    "background" : "B.Eng. Computer Science · Gold Medallist · Top of Class 🏅",
-    "awards"     : ["Best Paper Presentation — TECH STAR SUMMIT 2024 🏆"],
+    "education"  : "Master of Business Analytics and AI at Ontario Tech University",
+    "background" : "B.Eng. Computer Science, Gold Medallist, Top of Class 🏅",
+    "awards"     : ["Best Paper Presentation at TECH STAR SUMMIT 2024 🏆"],
     "interests"  : ["Data Analytics", "Business Intelligence", "Predictive Modelling", "Ethical AI"],
     "currently"  : "Exploring how AI and data reshape decisions in business",
-    "open_to"    : "Opportunities in data analytics, BI, and AI-driven roles"
+    "open_to"    : "Opportunities in data analytics, BI, and AI driven roles"
 }
 ```
 
----
+<br/>
 
 ## 🔍 What I'm Exploring
 
 ```
-├── 📊 Data Visualization & Storytelling
-│   └── turning complex datasets into clear, actionable narratives
+├── 📊 Data Visualization and Storytelling
+│   └── turning complex datasets into clear and actionable narratives
 │
-├── 📈 Predictive Analytics & Statistical Modelling
-│   └── applying ML and stats to real-world business problems
+├── 📈 Predictive Analytics and Statistical Modelling
+│   └── applying ML and stats to real world business problems
 │
 ├── 💡 Business Intelligence
-│   └── Power BI dashboards · KPI design · reporting systems
+│   └── Power BI dashboards, KPI design and reporting systems
 │
 └── 🤖 AI in Business
-    └── ethical AI applications · privacy · trust in ML systems
+    └── ethical AI applications, privacy and trust in ML systems
 ```
 
----
+<br/>
 
 ## 🛠️ Skills
 
-**Data Analytics & BI**
-Python · SQL · Power BI · Excel (Advanced) · Data Visualization · Predictive Analytics · Statistical Modelling · UI Design
+**Data Analytics and BI**
 
----
+Python · SQL · Power BI · Excel · Data Visualization · Predictive Analytics · Statistical Modelling · UI Design
+
+<br/>
 
 ## 📌 Selected Projects
 
-**`01` — Medication Reminder App** 🏆
-> Native cross-platform app for Android (Java) and iOS (Swift) built for Saveetha Medical College.
-> Push notifications, daily medication schedules, and an intuitive UI — improving patient adherence.
-> Recognised with **Best Paper Presentation at TECH STAR SUMMIT 2024**.
+**`01` Medication Reminder App 🏆**
 
-`Java` `Swift` `Android` `iOS` · [→ View Repository](https://github.com/Nisha-naresh/Medication_Reminder)
+A native cross platform app for Android and iOS built for Saveetha Medical College. It includes push notifications, daily medication schedules and an intuitive UI that helped improve patient adherence. This project was recognised with the Best Paper Presentation award at TECH STAR SUMMIT 2024.
 
----
+`Java` `Swift` `Android` `iOS` · [View Repository](https://github.com/Nisha-naresh/Medication_Reminder)
 
-**`02` — Visualization & Storytelling Portfolio**
-> MBAI 5400G at Ontario Tech University.
-> Applying data visualization principles and narrative techniques to real-world datasets.
+<br/>
 
-`HTML` `Data Visualization` `Storytelling` · [→ View Repository](https://github.com/Nisha-naresh/Viz-Stortelling-Portfolio)
+**`02` Visualization and Storytelling Portfolio**
 
----
+An academic portfolio for MBAI 5400G at Ontario Tech University where I applied data visualization principles and narrative techniques to real world datasets.
 
-**`03` — Artificial Intelligence Lab Work**
-> Hands-on AI and ML experiments covering core concepts.
+`HTML` `Data Visualization` `Storytelling` · [View Repository](https://github.com/Nisha-naresh/Viz-Stortelling-Portfolio)
 
-`Python` `AI` `Machine Learning` · [→ View Repository](https://github.com/Nisha-naresh/Artificial-Intelligence)
+<br/>
 
----
+**`03` Artificial Intelligence Lab Work**
 
-**`04` — Data Structures & Algorithms**
-> Structured implementations of fundamental CS concepts — clean, documented, and reusable.
+Hands on AI and ML experiments covering core concepts and implementations built during my studies.
 
-`Python` `DSA` · [→ View Repository](https://github.com/Nisha-naresh/Data-Structures)
+`Python` `AI` `Machine Learning` · [View Repository](https://github.com/Nisha-naresh/Artificial-Intelligence)
 
----
+<br/>
+
+**`04` Data Structures and Algorithms**
+
+Structured implementations of fundamental Computer Science concepts written to be clean, documented and reusable.
+
+`Python` `DSA` · [View Repository](https://github.com/Nisha-naresh/Data-Structures)
+
+<br/>
 
 ## 📜 Certifications
 
-All my certifications are listed on my LinkedIn profile — feel free to view them there:
+All my certifications are listed on my LinkedIn profile. Feel free to view them there!
 
 👉 [View Certifications on LinkedIn](https://www.linkedin.com/in/nisha-naresh/details/certifications/)
 
----
+<br/>
 
 <div align="center">
-  <i>"Data-driven. Detail-oriented. Always learning."</i><br/><br/>
+  <i>Data driven. Detail oriented. Always learning.</i><br/><br/>
   📍 Whitby, ON · 2026
 </div>
