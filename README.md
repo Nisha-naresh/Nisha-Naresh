@@ -56,7 +56,7 @@ nisha = {
 
 **Data Analytics and BI**
 
-Python · SQL · Power BI · Excel · Data Visualization · Predictive Analytics · Statistical Modelling · UI Design
+Python · SQL · Power BI · Excel · Data Visualization · Predictive Analytics · Statistical Modelling 
 
 <br/>
 
