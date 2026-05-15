@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-naresh/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nisha.naresh@ontariotechu.net)
-[![Profile Views](https://komarev.com/ghpvc/?username=Nisha-naresh&style=for-the-badge&color=7C3AED)](https://github.com/Nisha-naresh)
+![Open to Work](https://img.shields.io/badge/💼%20Open%20to%20Work-Available-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -56,7 +56,7 @@ nisha = {
 
 **Data Analytics and BI**
 
-Python · SQL · Power BI · Excel · Data Visualization · Predictive Analytics · Statistical Modelling 
+Python · SQL · Power BI · Excel · Data Visualization · Predictive Analytics · Statistical Modelling · UI Design
 
 <br/>
 
